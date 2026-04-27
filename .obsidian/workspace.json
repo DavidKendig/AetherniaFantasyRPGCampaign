@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b6aed206c36ae9da",
+    "type": "split",
+    "children": [
+      {
+        "id": "199c80f9cb39f5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372d7305c4125aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6874b4689effe995",
+    "type": "split",
+    "children": [
+      {
+        "id": "f331cdd280d38dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2673f86619081ba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a48a1d6b427faf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60076f10ff39d723",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc1f69a2b94ed161",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d42ab2f79bcc7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c955417f19f5f75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "9102f1aaa1d8ed63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "f3d15bee0198400f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a9a055b15aabb02",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "443abb10bb1215cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2673f86619081ba3",
+  "lastOpenFiles": [
+    "05 RULES & MECHANICS",
+    "04 CHARACTERS/PLAYER CHARACTERS",
+    "04 CHARACTERS/NPCS",
+    "04 CHARACTERS",
+    "03 FACTIONS & ORGANIZATIONS/GUILDS",
+    "03 FACTIONS & ORGANIZATIONS/GOVERNMENTS",
+    "03 FACTIONS & ORGANIZATIONS/CRIMINAL",
+    "03 FACTIONS & ORGANIZATIONS",
+    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY/RELIGIOUS ORDERS",
+    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY/PANTHEON",
+    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY"
+  ]
+}
