@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 FACTIONS & ORGANIZATIONS/GUILDS/The Crimson Thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Crimson Thread"
             }
           }
         ]
@@ -185,16 +185,25 @@
   },
   "active": "2673f86619081ba3",
   "lastOpenFiles": [
+    "04 CHARACTERS/NPCS/Crimson Thread Crooks.md",
+    "03 FACTIONS & ORGANIZATIONS/GUILDS/The Crimson Thread.md",
+    "03 FACTIONS & ORGANIZATIONS/GUILDS/Thieves Guild.md",
+    "03 FACTIONS & ORGANIZATIONS/GUILDS/The Wondering Flame.md",
+    "07 IMAGES/LOGOS/TheWanderingFlameBanner.png",
+    "07 IMAGES/LOGOS/CrimsonThreadFlag.png",
+    "07 IMAGES/SCENES/CrimsonThreadGuildhall.png",
+    "07 IMAGES/SCENES/TheWanderingFlameGuildhall.png",
+    "07 IMAGES/SCENES",
+    "07 IMAGES/LOGOS.md",
+    "07 IMAGES/LOGOS",
+    "README.md",
+    "07 IMAGES",
     "05 RULES & MECHANICS",
     "04 CHARACTERS/PLAYER CHARACTERS",
     "04 CHARACTERS/NPCS",
     "04 CHARACTERS",
     "03 FACTIONS & ORGANIZATIONS/GUILDS",
     "03 FACTIONS & ORGANIZATIONS/GOVERNMENTS",
-    "03 FACTIONS & ORGANIZATIONS/CRIMINAL",
-    "03 FACTIONS & ORGANIZATIONS",
-    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY/RELIGIOUS ORDERS",
-    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY/PANTHEON",
-    "02 WORLD OF ÆTHERNIA/RELIGION & COSMOLOGY"
+    "03 FACTIONS & ORGANIZATIONS/CRIMINAL"
   ]
 }
