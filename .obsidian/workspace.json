@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 FACTIONS & ORGANIZATIONS/GUILDS/The Crimson Thread.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Crimson Thread"
+              "title": "README"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2673f86619081ba3",
+  "active": "372d7305c4125aa2",
   "lastOpenFiles": [
-    "04 CHARACTERS/NPCS/Crimson Thread Crooks.md",
     "03 FACTIONS & ORGANIZATIONS/GUILDS/The Crimson Thread.md",
+    "04 CHARACTERS/NPCS/Crimson Thread Crooks.md",
     "03 FACTIONS & ORGANIZATIONS/GUILDS/Thieves Guild.md",
     "03 FACTIONS & ORGANIZATIONS/GUILDS/The Wondering Flame.md",
     "07 IMAGES/LOGOS/TheWanderingFlameBanner.png",
