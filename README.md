@@ -2,9 +2,7 @@ ___
 # ÆTHERNIA FANTASY RPG CAMPAIGN
 A semi, system agnostic RPG setting
 
-This is my personal fantasy champaign world from over <a id="yrs"></a><script>document.getElementById('yrs').textContent=new Date().getFullYear()-2008;</script> years of DMing. 
-
-I am still trying to collate my notes, I never thought to keep them all together over the years 🤦‍♂️, so please pardon the mess that is my attempt to put this project together in a coherent format for your own use.
+This is my personal fantasy campaign world from over <span id="yrs"></span> years of DMing.<br> I am still trying to collate my notes, I never thought to keep them all together over the years 🤦‍♂️, so please pardon the mess that is my attempt to put this project together in a coherent format for your own use.</p> <script>document.getElementById('yrs').textContent=new Date().getFullYear()-2008;</script>
 
 ## Æthernia Fantasy Campaign Legal Information
 ___
