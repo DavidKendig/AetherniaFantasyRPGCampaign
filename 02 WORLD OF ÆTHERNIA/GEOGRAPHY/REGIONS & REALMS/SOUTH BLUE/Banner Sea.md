@@ -1,0 +1,5 @@
+A cursed area of the South Blue that is the former location of the land of [[Ar]]. Where the martial heart of the world had stood for a thousand years, there is now only its watery grave. Sailors named it the **Banner Sea** in memory of the Banner Lords drowned long ago. They do not fish it nor stay too long in its waters, for fear of what lurks below. On still nights, they claim, a faint, ghostly light can be seen far below, the god's fire, still burning at the bottom of the world. 
+
+Old captains swear they have seen the dead rise from the depths to try and sink ships to join them in hell. Mages who study the ley lines say the sea itself is wrong here, that the currents run against the pull of the moon, and that any spell cast above the old capital of Kar'ak becomes twisted, into some kind of abomination. 
+
+Three ships are know to have vanished in the last decade, their logs recovered weeks later on empty rafts, the final entries scrawled in a hand that was not the captain's. The Banner Sea takes its toll not in storms or reefs, but in whatever debt was left unpaid when [[Ar]] went under, and it does not forget who still owes it.

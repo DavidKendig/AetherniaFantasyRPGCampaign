@@ -47,7 +47,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 |------------------------|-------|
 | *Ale*                  |       |
 | ~ Gallon               | 2 sp  |
-| ~ Mug                  | 4 cp  |
+| ~ Mug                  | 1 cp  |
 | Banquet (per person)   | 10 gp |
 | Bread, loaf            | 2 cp  |
 | Cheese, hunk           | 1 sp  |
@@ -67,8 +67,8 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 | ~ Aristocratic         | 2 gp  |
 | Meat, chunk            | 3 sp  |
 | *Wine*                 |       |
-| ~ Common (pitcher)     | 2 sp  |
-| ~ Fine (bottle)        | 10 gp |
+| ~ Common (pitcher)     | 1 sp  |
+| ~ Fine (bottle)        | 1 gp  |
 |                        |       |
 
 > **Self-Sufficiency**

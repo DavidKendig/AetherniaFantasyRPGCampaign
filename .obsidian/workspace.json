@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "372d7305c4125aa2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "07 IMAGES/NAMED NPCS/Arti.png"
-              },
-              "icon": "lucide-image",
-              "title": "Arti"
-            }
-          },
-          {
-            "id": "bb4778fb7e70a8b2",
+            "id": "e9e66588aa8741f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 WORLD OF ÆTHERNIA/GEOGRAPHY/CITIES & TOWNS/Arnum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Arnum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,44 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb4778fb7e70a8b2",
+  "active": "e9e66588aa8741f5",
   "lastOpenFiles": [
-    "05 RULES & MECHANICS/SRD 5E/README.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/CITIES & TOWNS/Embers Reach.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/CITIES & TOWNS/Blackwater.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Banner Sea.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/CITIES & TOWNS/Arnum.md",
+    "02 WORLD OF ÆTHERNIA/RUMORS/ACTIVE/The Unraveling Ledger.md",
+    "02 WORLD OF ÆTHERNIA/Calendar.md",
+    "02 WORLD OF ÆTHERNIA/RUMORS/USED & EXPIRED.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.83008.65b49b7afe05",
+    "02 WORLD OF ÆTHERNIA/CULTURE & SOCIETY/Books of Æthernia.md",
+    "02 WORLD OF ÆTHERNIA/ECONOMY & TRADE/Adventuring_Gear.md",
+    "02 WORLD OF ÆTHERNIA/ECONOMY & TRADE/Coinage.md",
+    "02 WORLD OF ÆTHERNIA/ECONOMY & TRADE/Trade_Goods.md",
+    "02 WORLD OF ÆTHERNIA/ECONOMY & TRADE/Tools.md",
+    "02 WORLD OF ÆTHERNIA/ECONOMY & TRADE/Selling_Treasure.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.f040f6c477c0",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.4596d9448c02",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.9fa5a59cd29a",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.b54d24f6d041",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.2155acea506d",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/SOUTH BLUE/Ar.md.tmp.1496.88d63023884d",
+    "06 PLAYER RESOURCES/PLAYER FORMS/PartyContract.md",
+    "06 PLAYER RESOURCES/PLAYER FORMS/LetterOfMarque.md",
+    "02 WORLD OF ÆTHERNIA/CULTURE & SOCIETY/Avalon.md",
+    "02 WORLD OF ÆTHERNIA/HISTORY & TIMELINE/HOLIDAYS/Untitled.md",
+    "02 WORLD OF ÆTHERNIA/HISTORY & TIMELINE/War in Heaven.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/CITIES & TOWNS/Arnum.md.tmp.17988.9ce29814a67e",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/WEST BLUE",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/EAST BLUE",
+    "02 WORLD OF ÆTHERNIA/RUMORS/ACTIVE/Untitled.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/GENARIC LOCATIONS/Graveyard.md",
+    "06 PLAYER RESOURCES/Dictionary & Encyclopedia.md",
+    "02 WORLD OF ÆTHERNIA/GEOGRAPHY/REGIONS & REALMS/Untitled.md",
+    "02 WORLD OF ÆTHERNIA/CULTURE & SOCIETY/SONGS OF ÆTHERNIA/Other Songs.md",
+    "02 WORLD OF ÆTHERNIA/CULTURE & SOCIETY/SONGS OF ÆTHERNIA/March of the Wondering Flame.md",
     "05 RULES & MECHANICS/SRD 5E/SRD_reMastered.png",
-    "04 CHARACTERS/NAMED NPCS/Arti.md",
-    "05 RULES & MECHANICS/SRD 5E/Legal.md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_White_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Zombie.md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Red_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Silver_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Green_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Gold_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Bronze_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Brass_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Copper_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Blue_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_White_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Xorn.md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyvern.md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Young_Black_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Silver_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Red_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Green_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Gold_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Copper_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Bronze_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Blue_Dragon_(Chromatic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each/Wyrmling_Brass_Dragon_(Metallic).md",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_A-Z",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters/Monsters_Each",
-    "05 RULES & MECHANICS/SRD 5E/10_Monsters",
-    "05 RULES & MECHANICS/SRD 5E/09_Magic_Items/Magic_Items_Each",
-    "05 RULES & MECHANICS/SRD 5E/09_Magic_Items/Magic_Items_A-Z",
-    "05 RULES & MECHANICS/SRD 5E/09_Magic_Items",
-    "05 RULES & MECHANICS/SRD 5E/08_Gamemastering",
-    "05 RULES & MECHANICS/SRD 5E/07_Spells/Spells_Each",
-    "05 RULES & MECHANICS/SRD 5E/07_Spells/Spells_A-Z",
-    "05 RULES & MECHANICS/SRD 5E/07_Spells",
     "05 RULES & MECHANICS/SRD_reMastered.png",
     "05 RULES & MECHANICS/dnd.srd.5.1-main/SRD_reMastered.png",
     "05 RULES & MECHANICS/dnd.srd.5.1-main/dnd.srd.5.1-main/SRD_reMastered.png",
