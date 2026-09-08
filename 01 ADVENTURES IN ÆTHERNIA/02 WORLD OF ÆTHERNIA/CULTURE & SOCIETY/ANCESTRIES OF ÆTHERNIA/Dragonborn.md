@@ -1,0 +1,8 @@
+Realm - Tiānlóng
+Language – Lóngyǔ
+Deity - Tiān
+Currency – Tael
+Height - 6ft 2in + 2d8 inches
+Weight – 220lbs + 6d10 pounds
+
+Dragonborn are tall, broad-shouldered folk covered in fine scales, with draconic heads, heavy jaws, and no tails to speak of. They stand well over six feet and carry themselves with a formality that other ancestries often mistake for arrogance. Every dragonborn can exhale the destructive energy of their forebears, and each bloodline runs true to a single element—a fact that matters enormously in Tiānlóng, where a clan's colour is its name, its heraldry, and its claim. The dragonborn hold themselves to be the eldest of the soulblessed, the first breath of Tiān given form when the Great Dragon burst from the Myst and breathed Encara into being. Whether or not the other ancestries accept that claim, the dragonborn have never much cared; their scholars keep the longest continuous records in the world, and their scale-priests read the histories aloud in Lóngyǔ from terraced temple-mountains that were old before the Kingdoms of Kith and Kin were dreamed of. Clan and lineage outweigh nearly everything else in dragonborn society, and a dragonborn who cannot recite their line back to the Second Age is considered less a person than a problem. Exile is the harshest punishment they impose, and most dragonborn found wandering the wider world are either exiles, or the children of exiles trying to earn a name worth reciting. Dragonborn hatch swiftly, walking within hours and reaching adulthood by 15, but they are short-lived by Kith standards, seldom passing 80 years.

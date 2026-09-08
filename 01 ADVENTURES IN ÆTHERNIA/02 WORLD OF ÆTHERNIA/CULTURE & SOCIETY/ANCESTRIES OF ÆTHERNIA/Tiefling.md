@@ -1,0 +1,8 @@
+Realm - None (scattered)
+Language – Neindari & the tongue of their birth
+Deity - Irkalla, where they worship at all
+Currency – None of their own
+Height - 5ft 4in + 3d4 inches
+Weight – 130lbs + 6d10 pounds
+
+Tieflings are of Kin build and Kin stature, but no one has ever mistaken one for Kin. Horns curve back from the brow, eyes hold a solid colour with no white to them, and the skin runs to shades that no ordinary bloodline produces; a tail and a resistance to fire complete the inheritance. In Æthernia they are named the Neindari, after the Demon Dragon Neindan, whose blood is said to have rained across Encara when the bomb of the gods broke him at the close of the War in Heaven. Where that rain fell, the stories go, it took root in living things and waited. The Neindari therefore have no realm, no homeland, and no founding—only a scattering, appearing in any Kin line without warning, often generations apart, to families who have no idea why. Some are hidden. Some are turned out. A great many find their way to the Khilāfah of Kekistan or the free companies, where the question of one's grandparents is not thought to be anybody's business. Those Neindari who keep faith at all tend toward Irkalla, mistress of Kur and the land of the dead, on the grim reasoning that she at least is honest about what she is; the Divine Empire's magistrates treat this as evidence of exactly what they already suspected. The Neindari tongue is not taught so much as recognised—Neindari raised entirely apart from their own kind have been known to read it on sight and be unable to say how. They mature at the same pace as the Kin and live a handful of years longer.

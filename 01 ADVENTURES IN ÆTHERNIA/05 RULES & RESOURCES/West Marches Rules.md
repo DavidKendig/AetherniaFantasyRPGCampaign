@@ -1,0 +1,14 @@
+Welcome to the Adventures In Æthernia West Marches Campaign. The following are our rules specifically for our West Marches style Campaign.
+
+---
+## General Rules
+
+1. Bowties are cool, so is D&D.  The whole goal of TTRPGs is for a group of friends to have fun. Please keep it that way.
+2. General depictions of anything should be kept to a PG-13 level of detail but be warned that this setting does dive into some mature themes.
+3. G.M. is the ultimate arbiter of the rules in this game. Be aware that story trumps rules and the game will be borrowing many elements from many versions of D&D.
+4. West Marches style Campaigns are designed to give players great control over the game. It is up to the players to decide what adventure they are going on. It is up to the players to decide how to divide the spoils after the session.
+5. Gold = EXP - The purpose of an adventure is not necessarily to get into fights. It is to complete the task, get the reward, and (if possible) loot the crap out of the dungeon. it is through spending gold during "downtime with your class trainer" that you will level up with your class between sessions. 
+6. Players can suggest or join sessions on an at-will basis. There is no assumed set party – characters can adventure in many different groups. It is assumed however that if you say you are going to be playing at a specific session, please do everything you can to make it to that session and for the full duration. We understand that emergencies come up but for other circumstances, it's rude to everyone else if they are expecting you and you don't cancel ahead of time.
+7. Each session is presumed to be self-contained. Players venture forth, "run out of supplies," and return to base at the end of every session. Adventures should end this way so every week a new adventure can just start without having to come up with a reason for party changes intersession.
+8. At any time, between session, there will be several, rumors, bounties, contracts available for the party to select (including your last adventure, if it was not completed). Please have your selection in with enough lead time for the GM to prepare for that weeks adventure. 
+9. The GMs job is to be referee for the stories and the rules, it is not to hold the players hand. If you decide to take"*The Leap of Faith*" and there was **NOT** a net waiting for you, you will die. Combat is risky, you can die. If in a session and another PC can revive you, great. It is **NOT** the GMs job to provide you that opportunity. If your character remains dead by the end of the session and the party can revive you during downtime somehow, great. It is **NOT** the GMs job to provide you that opportunity. If you die you better hope your party will be willing to give your stuff to your "*heir*."
